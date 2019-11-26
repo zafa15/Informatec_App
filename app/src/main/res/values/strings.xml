@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Informatec_App</string>
+    <string name="title_login">Informatec</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="label_go_to_register">¿Aún no te haz registrado?</string>
+
+    <string name="title_register">¡Únete con nosotros!</string>
+    <string name="label_register_name">Nombre Completo</string>
+    <string name="label_register_document">Documento de Identificación</string>
+    <string name="label_register_email">Email</string>
+    <string name="label_register_phone">Teléfono</string>
+    <string name="label_action_to_register">Unirme</string>
+
+</resources>
